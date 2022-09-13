@@ -1,4 +1,5 @@
 Solution Design:
+
 	1. I have used fluent builder pattern for the implementation as it provides greater flexibity for object creations. 
 	 
 	2. I have choosen a console application for this task as it is simple enough to meet the requirements. 
